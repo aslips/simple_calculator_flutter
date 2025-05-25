@@ -13,14 +13,6 @@ This project was designed with both functionality and aesthetics in mind, featur
 - Custom fonts: Indie Flower for header, Quicksand for content
 - Responsive design (works on both browser and mobile)
 
-## Screenshots
-
-| Light Theme | Dark Theme |
-|-------------|------------|
-| ![light](screenshots/light_mode.png) | ![dark](screenshots/dark_mode.png) |
-
-> You can replace the placeholders with your own screenshots.
-
 ## Getting Started
 
 To run this project locally:
