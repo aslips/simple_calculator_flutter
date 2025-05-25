@@ -26,7 +26,7 @@ This project was designed with both functionality and aesthetics in mind, featur
 To run this project locally:
 
 ```bash
-git clone https://github.com/your-username/hesap_makinesi.git
+git clone https://github.com/aslips/simple_calculator_flutter
 cd hesap_makinesi
 flutter pub get
 flutter run -d chrome
