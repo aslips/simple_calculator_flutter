@@ -27,7 +27,7 @@ To run this project locally:
 
 ```bash
 git clone https://github.com/aslips/simple_calculator_flutter
-cd hesap_makinesi
+cd simple_calculator_flutter
 flutter pub get
 flutter run -d chrome
 
